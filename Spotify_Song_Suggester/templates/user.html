@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<div>
+  <h2>{{ track_name }}</h2>
+</div>
+<div>
+  <form method='POST'>
+    {% for track in tracks %}
+    <span class="stack">{{ track }}</span>
+    {% endfor %}
+  </form>
+</div>
+{% endblock %}

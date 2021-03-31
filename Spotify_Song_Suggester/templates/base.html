@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Spotify Song Suggester</title>
+    <link rel="stylesheet" href="https://unpkg.com/picnic">
+  </head>
+  <body>
+    <article class="flex two" style="padding: 3em 1em">
+      {% block content %}
+      <div>
+        <h1>Spotify Song Suggester</h1>
+        <form action="/user_submitted" method="post">
+          <input type="text" name="track_name" placeholder="Enter a song name">
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+      <div>
+        {% for track in tracks %}
+        <span class="stack">
+          {{ track }}
+        </span>
+        {% endfor %}
+      </div>
+      {% endblock %}
+    </article>
+  </body>
+</html>

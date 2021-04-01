@@ -38,3 +38,8 @@ Run: flask run
 
 
 ## CREDITS
+This project was made possible by the following contributors:
+Joe Costa (* add git hub here*)
+Murat Benbanaste (* add git hub here*)
+Waqas Khwaja (* add git hub here*)
+Laurence Obi (* add git hub here*)

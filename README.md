@@ -41,5 +41,5 @@ Run: flask run
 This project was made possible by the following contributors:
 Joe Costa (https://github.com/jcost875)
 Murat Benbanaste (https://github.com/mbenbanaste)
-Waqas Khwaja (https://github.com/WaqasKhwaja)
+Kanade Fuzen (https://github.com/KanadeFuzen)
 Laurence Obi (https://github.com/afroroboticist)

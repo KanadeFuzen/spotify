@@ -39,7 +39,7 @@ Run: flask run
 
 ## CREDITS
 This project was made possible by the following contributors:
-Joe Costa (https://github.com/jcost875)
-Murat Benbanaste (https://github.com/mbenbanaste)
-Kanade Fuzen (https://github.com/KanadeFuzen)
-Laurence Obi (https://github.com/afroroboticist)
+Joe Costa (https://github.com/jcost875) 
+Murat Benbanaste (https://github.com/mbenbanaste) 
+Kanade Fuzen (https://github.com/KanadeFuzen) 
+Laurence Obi (https://github.com/afroroboticist) 
